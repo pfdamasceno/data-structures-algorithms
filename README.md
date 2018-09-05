@@ -1,2 +1,7 @@
 # data-structures-algorithms
-Code snippets and solutions of selected exercises from "Data Structures and Algorithms in Python" by Goodrich et al
+My python solutions for the exercises from the book:
+ - "Data Structures and Algorithms in Python" by Goodrich et al
+
+<p align="center">
+  <img height="300" src="./cover.jpeg">
+</p>
